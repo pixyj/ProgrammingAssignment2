@@ -1,6 +1,6 @@
 #Functions:
 
-#makeCacheMatrix: Creates a cachable matrix
+#makeCacheMatrix: Creates a cacheable matrix
 
 #cacheSolve: Returns inverse of matrix
 
